@@ -75,8 +75,6 @@ python3 agent_core.py
 
 *(建议放一张运行成功的截图或 GIF 动图，命名为 demo.png 放在同级目录下)*
 
-![Trojan Smile Demo](./demo.png)
-
 ---
 
 ## 🛡️ 给开发者的防御建议
