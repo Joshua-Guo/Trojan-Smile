@@ -73,7 +73,7 @@ python3 agent_core.py
 你会看到左边的终端里，Agent 正在一本正经地「总结 AI 论文」。  
 但同时，右边运行本地服务的终端会突然爆出红色的 **Trojan Smile** 笑脸，并提示「本地开发服务器已被接管」。
 
-*(建议放一张运行成功的截图或 GIF 动图，命名为 demo.png 放在同级目录下)*
+![演示录屏：双终端运行 `agent_core.py` 与 `local_dev_server.py`](./demo.gif)
 
 ---
 
